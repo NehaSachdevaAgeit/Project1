@@ -162,14 +162,20 @@ completed    358
 
 ![score_correlations](https://github.com/user-attachments/assets/cce85cb6-01eb-40be-ae34-3de1c62567f3)
 All scores (Math, Reading, Writing) are strongly positively correlated with each other.
+
 The strongest correlation is between Reading and Writing scores (0.95).
+
 Math score has a strong positive correlation with both Reading (0.81) and Writing (0.80) scores.
 
 ![score_distributions](https://github.com/user-attachments/assets/2be2def1-250b-4976-a68e-17b8cf37da36)
-Math Scores: The distribution is slightly skewed towards lower scores, with a peak around the 60s
+Math Scores: The distribution is slightly skewed towards lower scores, with a peak around the 60s.
+
 Reading Scores: This distribution is more symmetric and peaks around the low to mid-70s, suggesting generally higher performance compared to Math.
+
 Writing Scores: Similar to Reading, the Writing score distribution is also symmetric and peaks around the low to mid-70s, showing comparable performance levels to Reading.
+
 Subject Comparison: On average, students in this dataset tend to perform better in Reading and Writing than in Math.
+
 Score Spread: All three subjects show a wide range of scores, indicating significant variation in individual student performance.
 
 ![score_pairplot](https://github.com/user-attachments/assets/4c692bba-3e01-4eca-a46c-c482d6123647)
@@ -185,23 +191,32 @@ Gender Differences: Females appear to perform better in reading and writing, whi
 
 ![scores_by_gender_and_test_prep](https://github.com/user-attachments/assets/b9637c7e-de50-4729-9439-ee2b0c0003d7)
 Completing the test preparation course is generally associated with improved student scores across all subjects for both males and females.
+
 Gender-based performance differences are evident: females tend to score higher in reading and writing, while males show a slight advantage in math.
+
 While test preparation benefits both genders, it doesn't eliminate the observed gender-based performance patterns in different subjects.
 
 ![scores_by_lunch_type](https://github.com/user-attachments/assets/0b4c59d6-1398-478e-b84d-5a35b85b08a4)
 Students with standard lunch consistently have higher median scores.
+
 This difference is observed across Math, Reading, and Writing.
+
 Standard lunch is associated with better performance in all subjects.
 
 ![scores_by_parental_education](https://github.com/user-attachments/assets/c3a910a1-dc6c-4193-a0ff-0d1a8fe8e05c)
 Higher parental education levels are generally associated with higher average student scores.
+
 This positive trend is visible across Math, Reading, and Writing scores.
+
 Students whose parents have a master's or bachelor's degree tend to have the highest average scores.
+
 Students whose parents have high school or some high school education tend to have lower average scores.
 
 ![scores_by_test_prep](https://github.com/user-attachments/assets/0eb26eb6-1d8a-45c6-a4bc-0f60fb10e31c)
 Completing the test preparation course is strongly associated with higher median scores.
+
 This score boost is observed across Math, Reading, and Writing.
+
 Students who completed the course generally perform better.
 
 
